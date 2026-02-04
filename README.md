@@ -46,3 +46,4 @@ gerador-senha/
 Este projeto é de uso livre para **estudo, aprendizado e prática**.
 
 
+# gerador-de-senha
